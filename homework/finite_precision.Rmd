@@ -113,6 +113,7 @@ plot(
   type = 'l'
 )
 ```
+
 Does your output agree with what you expected? 
 Explain the observed phenomenon.
 
